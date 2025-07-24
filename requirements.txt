@@ -1,0 +1,8 @@
+scikit-learn
+scikit-optimize
+pandas
+numpy
+seaborn
+matplotlib
+imbalanced-learn
+statistics
