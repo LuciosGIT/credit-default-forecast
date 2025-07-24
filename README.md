@@ -1,5 +1,7 @@
 # Previsão de Pagamento de Empréstimos com Decision Trees e Random Forest
 
+![LendingClub Logo](/lendingclub.jpeg)
+
 Este projeto tem como objetivo construir modelos de machine learning para prever se um mutuário pagou integralmente seu empréstimo com base em dados financeiros históricos. Para isso, utilizamos os algoritmos **Decision Tree** e **Random Forest**, modelos baseados em árvores de decisão amplamente usados em problemas de classificação.
 
 ## Dataset
